@@ -3,4 +3,11 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ![plot](./foto.png)
 
-###### Installation
+### Installation
+
+Öncelikle projeyi clonelayın.
+
+
+```
+git clone https://github.com/ahmetkecici/kodluyoruzilkrepo.git
+```
